@@ -1,6 +1,0 @@
-Aquí puedo escribir lo que quiera
-Abrí mi terminal...
-1.Cree mi Story adentro de mi escritorio
-2.Realice cd Story lo liste ls
-3.Cree chapter1 texto
-4.Abrí chapter1 y estoy escribiendo aquí.
